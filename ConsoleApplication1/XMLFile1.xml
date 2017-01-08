@@ -1,0 +1,2377 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<trasy>
+  <trasa id_trasy="1">
+    <punkt_poczatkowy>
+      <id_punktu>
+        1
+      </id_punktu>
+      <nazwa_punktu>
+        Wierch Poroniec
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        2
+      </id_punktu>
+      <nazwa_punktu>
+        Łysa Polana
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="2">
+    <punkt_poczatkowy>
+      <id_punktu>
+        2
+      </id_punktu>
+      <nazwa_punktu>
+        Łysa Polana
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        1
+      </id_punktu>
+      <nazwa_punktu>
+        Wierch Poroniec
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="3">
+    <punkt_poczatkowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        1
+      </id_punktu>
+      <nazwa_punktu>
+        Wierch Poroniec
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="4">
+    <punkt_poczatkowy>
+      <id_punktu>
+        1
+      </id_punktu>
+      <nazwa_punktu>
+        Wierch Poroniec
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      6
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="5">
+    <punkt_poczatkowy>
+      <id_punktu>
+        3
+      </id_punktu>
+      <nazwa_punktu>
+        Palenica Białczańska
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        2
+      </id_punktu>
+      <nazwa_punktu>
+        Łysa Polana
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="6">
+    <punkt_poczatkowy>
+      <id_punktu>
+        2
+      </id_punktu>
+      <nazwa_punktu>
+        Łysa Polana
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        3
+      </id_punktu>
+      <nazwa_punktu>
+        Palenica Białczańska
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="7">
+    <punkt_poczatkowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        3
+      </id_punktu>
+      <nazwa_punktu>
+        Palenica Białczańska
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="8">
+    <punkt_poczatkowy>
+      <id_punktu>
+        3
+      </id_punktu>
+      <nazwa_punktu>
+        Palenica Białczańska
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="9">
+    <punkt_poczatkowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        5
+      </id_punktu>
+      <nazwa_punktu>
+        Dol. Filipka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="10">
+    <punkt_poczatkowy>
+      <id_punktu>
+        5
+      </id_punktu>
+      <nazwa_punktu>
+        Dol. Filipka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      7
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="11">
+    <punkt_poczatkowy>
+      <id_punktu>
+        5
+      </id_punktu>
+      <nazwa_punktu>
+        Dol. Filipka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        6
+      </id_punktu>
+      <nazwa_punktu>
+        Zazadnia
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="12">
+    <punkt_poczatkowy>
+      <id_punktu>
+        6
+      </id_punktu>
+      <nazwa_punktu>
+        Zazadnia
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        5
+      </id_punktu>
+      <nazwa_punktu>
+        Dol. Filipka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="13">
+    <punkt_poczatkowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        8
+      </id_punktu>
+      <nazwa_punktu>
+        Gęsia Szyja
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="14">
+    <punkt_poczatkowy>
+      <id_punktu>
+        8
+      </id_punktu>
+      <nazwa_punktu>
+        Gęsia Szyja
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="15">
+    <punkt_poczatkowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        10
+      </id_punktu>
+      <nazwa_punktu>
+        Polana pod Wołoszynem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="16">
+    <punkt_poczatkowy>
+      <id_punktu>
+        10
+      </id_punktu>
+      <nazwa_punktu>
+        Polana pod Wołoszynem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        4
+      </id_punktu>
+      <nazwa_punktu>
+        Rusinowa Polana
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="17">
+    <punkt_poczatkowy>
+      <id_punktu>
+        3
+      </id_punktu>
+      <nazwa_punktu>
+        Palenica Białczańska
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      6
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="18">
+    <punkt_poczatkowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        3
+      </id_punktu>
+      <nazwa_punktu>
+        Palenica Białczańska
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      5
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="19">
+    <punkt_poczatkowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        12
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK w Roztoce
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="20">
+    <punkt_poczatkowy>
+      <id_punktu>
+        12
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK w Roztoce
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="21">
+    <punkt_poczatkowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        10
+      </id_punktu>
+      <nazwa_punktu>
+        Polana pod Wołoszynem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      5
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="22">
+    <punkt_poczatkowy>
+      <id_punktu>
+        10
+      </id_punktu>
+      <nazwa_punktu>
+        Polana pod Wołoszynem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmty Mickiewicza
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="23">
+    <punkt_poczatkowy>
+      <id_punktu>
+        10
+      </id_punktu>
+      <nazwa_punktu>
+        Polana pod Wołoszynem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmundzka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="24">
+    <punkt_poczatkowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmundzka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        10
+      </id_punktu>
+      <nazwa_punktu>
+        Polana pod Wołoszynem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="25">
+    <punkt_poczatkowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        13
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      8
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="26">
+    <punkt_poczatkowy>
+      <id_punktu>
+        13
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      5
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="27">
+    <punkt_poczatkowy>
+      <id_punktu>
+        13
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        14
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="28">
+    <punkt_poczatkowy>
+      <id_punktu>
+        14
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        13
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="29">
+    <punkt_poczatkowy>
+      <id_punktu>
+        14
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        15
+      </id_punktu>
+      <nazwa_punktu>
+        Rysy (TPG Rysy)
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      13
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="30">
+    <punkt_poczatkowy>
+      <id_punktu>
+        15
+      </id_punktu>
+      <nazwa_punktu>
+        Rysy (TPG Rysy)
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        14
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="31">
+    <punkt_poczatkowy>
+      <id_punktu>
+        14
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        16
+      </id_punktu>
+      <nazwa_punktu>
+        Mięguszowiecka Prz. pod Chłopkiem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      10
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="32">
+    <punkt_poczatkowy>
+      <id_punktu>
+        16
+      </id_punktu>
+      <nazwa_punktu>
+        Mięguszowiecka Prz. pod Chłopkiem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        14
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="33">
+    <punkt_poczatkowy>
+      <id_punktu>
+        13
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK w Morskim Okiem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        17
+      </id_punktu>
+      <nazwa_punktu>
+        Dolina za Mnichem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      6
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="34">
+    <punkt_poczatkowy>
+      <id_punktu>
+        17
+      </id_punktu>
+      <nazwa_punktu>
+        Dolina za Mnichem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        13
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="35">
+    <punkt_poczatkowy>
+      <id_punktu>
+        17
+      </id_punktu>
+      <nazwa_punktu>
+        Dolina za Mnichem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        18
+      </id_punktu>
+      <nazwa_punktu>
+        Wrota Chałubińskiego
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="36">
+    <punkt_poczatkowy>
+      <id_punktu>
+        18
+      </id_punktu>
+      <nazwa_punktu>
+        Wrota Chałubińskiego
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        17
+      </id_punktu>
+      <nazwa_punktu>
+        Dolina za Mnichem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="37">
+    <punkt_poczatkowy>
+      <id_punktu>
+        17
+      </id_punktu>
+      <nazwa_punktu>
+        Dolina za Mnichem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        20
+      </id_punktu>
+      <nazwa_punktu>
+        Szpiglasowa Przełęcz
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="38">
+    <punkt_poczatkowy>
+      <id_punktu>
+        20
+      </id_punktu>
+      <nazwa_punktu>
+        Szpiglasowa Przełęcz
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        17
+      </id_punktu>
+      <nazwa_punktu>
+        Dolina za Mnichem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="39">
+    <punkt_poczatkowy>
+      <id_punktu>
+        20
+      </id_punktu>
+      <nazwa_punktu>
+        Szpiglasowa Przełęcz
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        19
+      </id_punktu>
+      <nazwa_punktu>
+        Szpiglasowy Wierch
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="40">
+    <punkt_poczatkowy>
+      <id_punktu>
+        19
+      </id_punktu>
+      <nazwa_punktu>
+        Szpiglasowy Wierch
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        20
+      </id_punktu>
+      <nazwa_punktu>
+        Szpiglasowa Przełęcz
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="41">
+    <punkt_poczatkowy>
+      <id_punktu>
+        20
+      </id_punktu>
+      <nazwa_punktu>
+        Szpiglasowa Przełęcz
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="42">
+    <punkt_poczatkowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        20
+      </id_punktu>
+      <nazwa_punktu>
+        Szpiglasowa Przełęcz
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      6
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="43">
+    <punkt_poczatkowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="44">
+    <punkt_poczatkowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="45">
+    <punkt_poczatkowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        21
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK w Dolinie Pięciu Stawów Polskich
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="46">
+    <punkt_poczatkowy>
+      <id_punktu>
+        21
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK w Dolinie Pięciu Stawów Polskich
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="47">
+    <punkt_poczatkowy>
+      <id_punktu>
+        21
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK w Dolinie Pięciu Stawów
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        13
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      5
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="48">
+    <punkt_poczatkowy>
+      <id_punktu>
+        13
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK nad Morskim Okiem
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        21
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK w Dolinie Pięciu Stawów Polskich
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      9
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="49">
+    <punkt_poczatkowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      5
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="50">
+    <punkt_poczatkowy>
+      <id_punktu>
+        11
+      </id_punktu>
+      <nazwa_punktu>
+        Wodogrzmoty Mickiewicza
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      11
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="51">
+    <punkt_poczatkowy>
+      <id_punktu>
+        8
+      </id_punktu>
+      <nazwa_punktu>
+        Gęsia Szyja
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmudzka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="52">
+    <punkt_poczatkowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmudzka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        8
+      </id_punktu>
+      <nazwa_punktu>
+        Gęsia Szyja
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="53">
+    <punkt_poczatkowy>
+      <id_punktu>
+        7
+      </id_punktu>
+      <nazwa_punktu>
+        Psia Trawka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmudzka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      5
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="54">
+    <punkt_poczatkowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmudzka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        7
+      </id_punktu>
+      <nazwa_punktu>
+        Psia Trawka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="55">
+    <punkt_poczatkowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        7
+      </id_punktu>
+      <nazwa_punktu>
+        Psia Trawka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="56">
+    <punkt_poczatkowy>
+      <id_punktu>
+        7
+      </id_punktu>
+      <nazwa_punktu>
+        Psia Trawka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      7
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="57">
+    <punkt_poczatkowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmudzka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      7
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="58">
+    <punkt_poczatkowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmudzka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      8
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="59">
+    <punkt_poczatkowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmudzka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        29
+      </id_punktu>
+      <nazwa_punktu>
+        Czerwony Staw w Dol. Pańszczycy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      6
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="60">
+    <punkt_poczatkowy>
+      <id_punktu>
+        29
+      </id_punktu>
+      <nazwa_punktu>
+        Czerwony Staw w Dol. Pańszczycy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        9
+      </id_punktu>
+      <nazwa_punktu>
+        Rówień Waksmudzka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="61">
+    <punkt_poczatkowy>
+      <id_punktu>
+        29
+      </id_punktu>
+      <nazwa_punktu>
+        Czerwony Staw w Dol. Pańszczycy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="62">
+    <punkt_poczatkowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        29
+      </id_punktu>
+      <nazwa_punktu>
+        Czerwony Staw w Dol. Pańszzycy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      6
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="63">
+    <punkt_poczatkowy>
+      <id_punktu>
+        29
+      </id_punktu>
+      <nazwa_punktu>
+        Czerwony Staw w Dol. Pańszczycy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        27
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Krzyżne
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      8
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="64">
+    <punkt_poczatkowy>
+      <id_punktu>
+        27
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Krzyżne
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        29
+      </id_punktu>
+      <nazwa_punktu>
+        Czerwony Staw w Dol. Pańszczycy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="65">
+    <punkt_poczatkowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        31
+      </id_punktu>
+      <nazwa_punktu>
+        Dwoiśniak
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="66">
+    <punkt_poczatkowy>
+      <id_punktu>
+        31
+      </id_punktu>
+      <nazwa_punktu>
+        Dwoiśniak
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="67">
+    <punkt_poczatkowy>
+      <id_punktu>
+        31
+      </id_punktu>
+      <nazwa_punktu>
+        Dwoiśniak
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        32
+      </id_punktu>
+      <nazwa_punktu>
+        Zielony Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="68">
+    <punkt_poczatkowy>
+      <id_punktu>
+        32
+      </id_punktu>
+      <nazwa_punktu>
+        Zielony Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        31
+      </id_punktu>
+      <nazwa_punktu>
+        Dwoiśniak
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="69">
+    <punkt_poczatkowy>
+      <id_punktu>
+        31
+      </id_punktu>
+      <nazwa_punktu>
+        Dwoiśniak
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        33
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Liliowe
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      5
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="70">
+    <punkt_poczatkowy>
+      <id_punktu>
+        33
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Liliowe
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        31
+      </id_punktu>
+      <nazwa_punktu>
+        Dwoiśniak
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="71">
+    <punkt_poczatkowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="72">
+    <punkt_poczatkowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        30
+      </id_punktu>
+      <nazwa_punktu>
+        Schr. PTTK na Hali Gąsienicowej
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="73">
+    <punkt_poczatkowy>
+      <id_punktu>
+        33
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Liliowe
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        36
+      </id_punktu>
+      <nazwa_punktu>
+        Świni cka Prz.
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="74">
+    <punkt_poczatkowy>
+      <id_punktu>
+        36
+      </id_punktu>
+      <nazwa_punktu>
+        Świnicka Prz.
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        33
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Liliowe
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="75">
+    <punkt_poczatkowy>
+      <id_punktu>
+        36
+      </id_punktu>
+      <nazwa_punktu>
+        Świnicka Prz.
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        32
+      </id_punktu>
+      <nazwa_punktu>
+        Zielony Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="76">
+    <punkt_poczatkowy>
+      <id_punktu>
+        32
+      </id_punktu>
+      <nazwa_punktu>
+        Zielony Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        36
+      </id_punktu>
+      <nazwa_punktu>
+        Świnicka Prz.
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      5
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="77">
+    <punkt_poczatkowy>
+      <id_punktu>
+        32
+      </id_punktu>
+      <nazwa_punktu>
+        Zielony Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        34
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Karb
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="78">
+    <punkt_poczatkowy>
+      <id_punktu>
+        34
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Karb
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        32
+      </id_punktu>
+      <nazwa_punktu>
+        Zielony Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="79">
+    <punkt_poczatkowy>
+      <id_punktu>
+        34
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Karb
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="80">
+    <punkt_poczatkowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        34
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Karb
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="81">
+    <punkt_poczatkowy>
+      <id_punktu>
+        34
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Karb
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        37
+      </id_punktu>
+      <nazwa_punktu>
+        Kościelec
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="82">
+    <punkt_poczatkowy>
+      <id_punktu>
+        37
+      </id_punktu>
+      <nazwa_punktu>
+        Kościelec
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        34
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Karb
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="83">
+    <punkt_poczatkowy>
+      <id_punktu>
+        36
+      </id_punktu>
+      <nazwa_punktu>
+        Świnicka Prz.
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        39
+      </id_punktu>
+      <nazwa_punktu>
+        Świnica
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="84">
+    <punkt_poczatkowy>
+      <id_punktu>
+        39
+      </id_punktu>
+      <nazwa_punktu>
+        Świnica
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        36
+      </id_punktu>
+      <nazwa_punktu>
+        Świnicka Prz.
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="85">
+    <punkt_poczatkowy>
+      <id_punktu>
+        39
+      </id_punktu>
+      <nazwa_punktu>
+        Świnica
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        40
+      </id_punktu>
+      <nazwa_punktu>
+        Zawrat
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="86">
+    <punkt_poczatkowy>
+      <id_punktu>
+        40
+      </id_punktu>
+      <nazwa_punktu>
+        Zawrat
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        39
+      </id_punktu>
+      <nazwa_punktu>
+        Świnica
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="87">
+    <punkt_poczatkowy>
+      <id_punktu>
+        40
+      </id_punktu>
+      <nazwa_punktu>
+        Zawrat
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="88">
+    <punkt_poczatkowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        40
+      </id_punktu>
+      <nazwa_punktu>
+        Zawrat
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      8
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="89">
+    <punkt_poczatkowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        38
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Dolinka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="90">
+    <punkt_poczatkowy>
+      <id_punktu>
+        38
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Dolinka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="91">
+    <punkt_poczatkowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        28
+      </id_punktu>
+      <nazwa_punktu>
+        Skrajny Granat
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      8
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="92">
+    <punkt_poczatkowy>
+      <id_punktu>
+        28
+      </id_punktu>
+      <nazwa_punktu>
+        Skrajny Granat
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="93">
+    <punkt_poczatkowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        38
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Dolinka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="94">
+    <punkt_poczatkowy>
+      <id_punktu>
+        38
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Dolinka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        35
+      </id_punktu>
+      <nazwa_punktu>
+        Czarny Staw Gąsienicowy
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="95">
+    <punkt_poczatkowy>
+      <id_punktu>
+        29
+      </id_punktu>
+      <nazwa_punktu>
+        Skrajny Granat
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        27
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Krzyżne
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      6
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="96">
+    <punkt_poczatkowy>
+      <id_punktu>
+        26
+      </id_punktu>
+      <nazwa_punktu>
+        Żleb Kulczyńskiego
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        28
+      </id_punktu>
+      <nazwa_punktu>
+        Skrajny Granat
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="97">
+    <punkt_poczatkowy>
+      <id_punktu>
+        38
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Dolinka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        26
+      </id_punktu>
+      <nazwa_punktu>
+        Żleb Kulczyńskiego
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="98">
+    <punkt_poczatkowy>
+      <id_punktu>
+        26
+      </id_punktu>
+      <nazwa_punktu>
+        Żleb Kulczyńskiego
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        38
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Dolinka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="99">
+    <punkt_poczatkowy>
+      <id_punktu>
+        38
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Dolinka
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        25
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Prz.
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="100">
+    <punkt_poczatkowy>
+      <id_punktu>
+        25
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Prz.
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        38
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Dolinka
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="101">
+    <punkt_poczatkowy>
+      <id_punktu>
+        40
+      </id_punktu>
+      <nazwa_punktu>
+        Zawrat
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        25
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Prz
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="102">
+    <punkt_poczatkowy>
+      <id_punktu>
+        25
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Prz.
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        24
+      </id_punktu>
+      <nazwa_punktu>
+        Kozi Wierch
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="103">
+    <punkt_poczatkowy>
+      <id_punktu>
+        25
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Prz.
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="104">
+    <punkt_poczatkowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        25
+      </id_punktu>
+      <nazwa_punktu>
+        Kozia Prz.
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      6
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="105">
+    <punkt_poczatkowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        40
+      </id_punktu>
+      <nazwa_punktu>
+        Zawrat
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      7
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="106">
+    <punkt_poczatkowy>
+      <id_punktu>
+        40
+      </id_punktu>
+      <nazwa_punktu>
+        Zawrat
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      3
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="107">
+    <punkt_poczatkowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="108">
+    <punkt_poczatkowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        22
+      </id_punktu>
+      <nazwa_punktu>
+        tabl. S. Bronikowskiego
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="109">
+    <punkt_poczatkowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        24
+      </id_punktu>
+      <nazwa_punktu>
+        Kozi Wierch
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      8
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="110">
+    <punkt_poczatkowy>
+      <id_punktu>
+        24
+      </id_punktu>
+      <nazwa_punktu>
+        Kozi Wierch
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      2
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="111">
+    <punkt_poczatkowy>
+      <id_punktu>
+        24
+      </id_punktu>
+      <nazwa_punktu>
+        Kozi Wierch
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        26
+      </id_punktu>
+      <nazwa_punktu>
+        Żleb Kulczyńskiego
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      1
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="112">
+    <punkt_poczatkowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        27
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Krzyżne
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      9
+    </ilosc_punktow>
+  </trasa>
+  <trasa id_trasy="113">
+    <punkt_poczatkowy>
+      <id_punktu>
+        27
+      </id_punktu>
+      <nazwa_punktu>
+        Prz. Krzyżne
+      </nazwa_punktu>
+    </punkt_poczatkowy>
+    <punkt_koncowy>
+      <id_punktu>
+        23
+      </id_punktu>
+      <nazwa_punktu>
+        Siklawa
+      </nazwa_punktu>
+    </punkt_koncowy>
+    <ilosc_punktow>
+      4
+    </ilosc_punktow>
+  </trasa>
+</trasy>

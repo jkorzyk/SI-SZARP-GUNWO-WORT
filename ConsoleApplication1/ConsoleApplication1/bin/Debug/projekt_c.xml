@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<punkty>
+
+  <punkt>
+    <idpunktu>
+      1
+    </idpunktu>
+    <nazwa>
+      Wierch Poroniec
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      2
+    </idpunktu>
+    <nazwa>
+      Łysa Polana
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      3
+    </idpunktu>
+    <nazwa>
+      Połonica Białczańska
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      4
+    </idpunktu>
+    <nazwa>
+      Rusinowa Polana
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      5
+    </idpunktu>
+    <nazwa>
+      Dol. Filipka
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      6
+    </idpunktu>
+    <nazwa>
+      Zazadnia
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      7
+    </idpunktu>
+    <nazwa>
+      Psia Trawka
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      8
+    </idpunktu>
+    <nazwa>
+      Gęsia Szyja
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      9
+    </idpunktu>
+    <nazwa>
+      Rówień Waksmundzka
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      10
+    </idpunktu>
+    <nazwa>
+      Polana pod Wołoszynem
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      11
+    </idpunktu>
+    <nazwa>
+      Wodogrzmoty Mickiewicza
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      12
+    </idpunktu>
+    <nazwa>
+      Schr. PTTK w Roztoce
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      13
+    </idpunktu>
+    <nazwa>
+      Schr. PTTK nad Morskim Okiem
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      14
+    </idpunktu>
+    <nazwa>
+      Czarny Staw nad Morskim Okiem
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      15
+    </idpunktu>
+    <nazwa>
+      Rysy (TPG Rysy)
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      16
+    </idpunktu>
+    <nazwa>
+      Mięguszowięcka Prz. pod Chłopkiem
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      17
+    </idpunktu>
+    <nazwa>
+      Dolina za Mnichem
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      18
+    </idpunktu>
+    <nazwa>
+      Wrota Chałubińskiego
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      19
+    </idpunktu>
+    <nazwa>
+      Szpiglasowy Wierch
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      20
+    </idpunktu>
+    <nazwa>
+      Szpiglasowa Przełęcz
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      21
+    </idpunktu>
+    <nazwa>
+      Schr. PTTK w Dolinie Pięciu Stawów Polskich
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      22
+    </idpunktu>
+    <nazwa>
+      tabl. S. Bronikowskiego
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      23
+    </idpunktu>
+    <nazwa>
+      Siklawa
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      24
+    </idpunktu>
+    <nazwa>
+      Kozi Wierch
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      25
+    </idpunktu>
+    <nazwa>
+      Kozia Prz.
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      26
+    </idpunktu>
+    <nazwa>
+      Żleb Kulczyńskiego
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      27
+    </idpunktu>
+    <nazwa>
+      Prz. Krzyżne
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      28
+    </idpunktu>
+    <nazwa>
+      Skrajny Granat
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      29
+    </idpunktu>
+    <nazwa>
+      Czerwony Staw w Dol. Pańszczycy
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      30
+    </idpunktu>
+    <nazwa>
+      Schr. PTTK na Hali Gąsienicowej
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      31
+    </idpunktu>
+    <nazwa>
+      Dwoiśniak
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      32
+    </idpunktu>
+    <nazwa>
+      Zielony Staw Gąsienicowy
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      33
+    </idpunktu>
+    <nazwa>
+      Prz. Liliowe
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      34
+    </idpunktu>
+    <nazwa>
+      Prz. Karb
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      35
+    </idpunktu>
+    <nazwa>
+      Czarny Staw Gąsienicowy
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      36
+    </idpunktu>
+    <nazwa>
+      Świnicka Prz.
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      37
+    </idpunktu>
+    <nazwa>
+      Kościelec
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      38
+    </idpunktu>
+    <nazwa>
+      Kozia Dolina
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      39
+    </idpunktu>
+    <nazwa>
+      Świnica
+    </nazwa>
+  </punkt>
+  <punkt>
+    <idpunktu>
+      40
+    </idpunktu>
+    <nazwa>
+      Zawrat
+    </nazwa>
+  </punkt>
+</punkty>
